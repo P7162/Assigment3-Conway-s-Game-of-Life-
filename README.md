@@ -1,1 +1,2 @@
-# Assigment3-Conway-s-Game-of-Life-
+
+Game-of-Life-
