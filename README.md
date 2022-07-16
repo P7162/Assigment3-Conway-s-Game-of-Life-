@@ -29,7 +29,7 @@ So, for example, if you entered "dotnet run silent r 0" your program should disp
 
 If the user entered "dotnet run silent r 1", your program would display:
 
-LifeSilentR1.png
+<img width="1778" alt="LifeSilentR1" src="https://user-images.githubusercontent.com/71481139/179337335-ce3ebba7-7c93-4036-bef2-6904d9647082.png">
 
 and if the user entered "dotnet run silent r 10", your program would display:
 
