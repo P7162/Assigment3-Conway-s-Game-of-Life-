@@ -33,12 +33,14 @@ If the user entered "dotnet run silent r 1", your program would display:
 
 and if the user entered "dotnet run silent r 10", your program would display:
 
-LifeSilentR10.png
+<img width="1781" alt="LifeSilentR10" src="https://user-images.githubusercontent.com/71481139/179337374-cff99ce2-6ac5-43a0-8909-01a626ed32dd.png">
+
 
 Because it is in silent mode, it should NOT display any of the other generations.
 
 On the other hand, if you entered "dotnet run" (with no arguments), your program should run in interactive mode starting with the R-Pentomino pattern and run until the user presses "Q".   When it starts running, it should look something like this:
 
-The R-Pentomino pattern running
+
+![LifeRun-1](https://user-images.githubusercontent.com/71481139/179337383-ee69bb94-9c63-4f0b-b539-016fa7a12321.gif)
 
 Again, remember, if Silent mode is specified on the command line, you should only display the final generation!
