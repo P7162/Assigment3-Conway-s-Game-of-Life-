@@ -25,7 +25,7 @@ The third command-line argument is an integer that determines how many generatio
 
 So, for example, if you entered "dotnet run silent r 0" your program should display the following output (on the left side).  (The log.txt file should contain the information shown on the right side.)
 
-LifeSilentR0.png
+<img width="1787" alt="LifeSilentR0" src="https://user-images.githubusercontent.com/71481139/179337311-f433b9ea-0b3c-4954-a240-79da4e30bdce.png">
 
 If the user entered "dotnet run silent r 1", your program would display:
 
